@@ -31,5 +31,5 @@ jobs:
       - name: repository dispatch
         uses: peter-evans/repository-dispatch@v1
         with:
-          token: KIDP2H
+          token: PROGRESS
           event-type: build-event
